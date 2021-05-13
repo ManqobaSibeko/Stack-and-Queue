@@ -7,13 +7,13 @@ A brief description of what this project does and who it's for
 
 
 ### Table of Content
- - [Description](@escription)
- - [Tech Stack](@)
- - [Installation](@)
- - [Deployment](@)
- - [Documentation](@Documentation)
- - [Lessons Learned](@LessonsLearned)
- - [Author](@Author)
+ - [Description](#escription)
+ - [Tech Stack](#tech-stack)
+ - [Installation](#installation)
+ - [Deployment](#deployment)
+ - [Documentation](#Documentation)
+ - [Lessons Learned](#LessonsLearned)
+ - [Author](#Authors)
 
   
 ### Description
