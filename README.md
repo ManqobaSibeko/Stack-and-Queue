@@ -3,7 +3,9 @@
 
 A brief description of what this project does and who it's for
 
-<img src="https://twitter.com/ManqobaSibekoQh/photo"> <img src="image/banner.png"> 
+
+
+![App Screenshot](https://https://twitter.com/ManqobaSibekoQh/photo/468x300?text=App+Screenshot+Here)
 
 
 ### Table of Content
@@ -18,6 +20,8 @@ A brief description of what this project does and who it's for
   
 ### Description
 
+- what it is
+- what are you trying to accomplish
  Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum laboriosam at ut asperiores dicta atque accusantium perspiciatis hic omnis autem obcaecati laudantium et sapiente veniam, corporis sed molestias. Inventore eos recusandae nisi tempore hic odio at ut veniam fugiat, laudantium, et quae id autem magni repudiandae eum nostrum. Corrupti soluta, officiis voluptatibus deleniti iure debitis at fugiat consequuntur aspernatur quae ea facere atque velit doloribus incidunt dicta itaque, laborum repudiandae esse. Consectetur optio fugiat architecto ducimus, quae ullam cum! Eligendi maiores officiis a omnis ratione distinctio suscipit similique, autem deserunt non inventore esse asperiores reprehenderit nihil vero. Hic, esse ducimus.
 
 ### Tech Stack
