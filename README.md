@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 
 
-![App Screenshot]('https://www.pexels.com/photo/fashion-photography-of-woman-hands-on-chin-with-glitter-makeup-1081685')
+![App Screenshot](https://images.pexels.com/photos/1081685/pexels-photo-1081685.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200&w=220)
 
 
 ### Table of Content
