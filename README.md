@@ -12,7 +12,7 @@ A brief description of what this project does and who it's for
  - [Installation](#installation)
  - [Deployment](#deployment)
  - [Documentation](#Documentation)
- - [Lessons Learned](#LessonsLearned)
+ - [Lessons Learned](#Lessons-Learned)
  - [Author](#Authors)
 
   
