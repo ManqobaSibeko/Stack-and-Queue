@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
 
-<img src="image/banner.png"> <img src="image/banner.png"> 
+<img src="https://twitter.com/ManqobaSibekoQh/photo"> <img src="image/banner.png"> 
 
 
 ### Table of Content
